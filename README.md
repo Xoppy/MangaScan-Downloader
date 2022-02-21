@@ -2,6 +2,9 @@
 Bienvenue sur la page du projet open-source MangaScan-Downloader. 
 Cet outil permet de télécharger les différentes pages ou chapitres de scans à partir des sites de scan français les plus connus, pour ensuite les convertir en un fichier PDF facile à lire.
 
+Voici la page pour télécharger le programme executable sur windows : [Télécharger](https://github.com/Xoppy/MangaScan-Downloader/releases)
+
+
 # M'offrir un café
 Si cet outil vous a permis de gagner du temps ou de vous rendre la vie plus facile n'hésitez pas à m'offir un café en faisant une donation, je suis encore en études et dans ma situation chaque petit don compte énormement.
 
