@@ -28,7 +28,7 @@ L'intérface graphique du logiciel est assez rudimentaire mais elle est assez ex
 Il faut savoir que lors de la création du PDF le logiciel demande une bonne capacité de RAM, je vous conseille de ne pas dépasser les 2000 pages par PDF si vous avez moins de 16Go de RAM.
 
 # Quels sites sont pris en compte
-Pour l'instant on peut utiliser cet outils sur trois sites différents : 
+Pour l'instant on peut utiliser cet outil sur trois sites différents : 
 - https://scansmangas.xyz/
 - https://www.frscan.cc/
 - https://lelscans.net/
@@ -36,11 +36,11 @@ Pour l'instant on peut utiliser cet outils sur trois sites différents :
 Attention, pour frscan.cc la fonction pour télécharger directement par chapitres n'est pas disponible pour l'instant. Il faut donc indiquer le nombre de pages précises que l'on souhaite télécharger.
 
 # Disclaimer légal
-Cet outil n'est aucunement rattaché aux sites cités si-dessus et n'as pas été conçu pour une utilisation illégale. L'outil à été crée à la base pour l'utiliser sur des scan non licensés en Europe et des webtoons libres de droits. Toute utilisation à des fins illégaux sera à charge de l'utilisateur.
+Cet outil n'est aucunement rattaché aux sites cités ci-dessus et n'a pas été conçu pour une utilisation illégale. L'outil a été crée à la base pour l'utiliser sur des scans non licensés en Europe et des webtoons libres de droits. Toute utilisation à des fins illégaux sera à charge de l'utilisateur.
 
 # Remerciements et disclaimer finaux
-Merci beacoup d'avoir consulté ce projet, c'est mon tout premier projet en Python et je suis particulièrement fier du résultat jusqu'a maintenant. 
+Merci beaucoup d'avoir consulté ce projet, c'est mon tout premier projet en Python et je suis particulièrement fier du résultat jusqu'à maintenant. 
 
-Je tiens tout de même à remercier les personnes (qui se reconaitrons) qui m'ont donné des inspirations sur les différents sites à scraper. Et j'aimerai terminer en vous indiquant que la qualité du code qui est utilisé dans ce projet n'est surement pas parfaite (je dirais même qu'elle est médiocre), mais pour un premier projet et pour une première version je suis assez content du resultat. 
+Je tiens tout de même à remercier les personnes (qui se reconnaîtront) qui m'ont donné des inspirations sur les différents sites à scraper. Et j'aimerai terminer en vous indiquant que la qualité du code qui est utilisé dans ce projet n'est surement pas parfaite (je dirais même qu'elle est médiocre), mais pour un premier projet et pour une première version je suis assez content du résultat. 
 
 Encore une fois merci, et bon scraping!
