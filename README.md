@@ -20,7 +20,7 @@ Pour ce qui est du fonctionnement dans les grandes lignes, cet outil va scraper 
 
 L'intérface graphique du logiciel est assez rudimentaire mais elle est assez explicite. Pour chaque téléchargement, il faudra indiquer le nom du manga / webtoon, le lien de la première page du chapitre à télécharger et le nombre de chapitres ou de pages que vous voulez dans votre PDF.
 
-![alt text](https://github.com/Xoppy/MangaScan-Downloader/blob/master/MangaScan-Downloader-GUI.png)
+![alt text](https://github.com/Xoppy/MangaScan-Downloader/blob/main/MangaScan-Downloader-GUI.png)
 
 Il faut savoir que lors de la création du PDF le logiciel demande une bonne capacité de RAM, je vous conseille de ne pas dépasser les 2000 pages par PDF si vous avez moins de 16Go de RAM.
 
